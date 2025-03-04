@@ -1,7 +1,7 @@
 # Hola soy Álvaro!
 ## Algunas cosas sobre mi (no son muchas)
 * Actualmente estudiante de la Universidad Nacional de Colombia (UNAL)
-* Apasionado por la programación
+* Apasionado por la programación!! (no se como mostrar más emocion en texto :v)
 ## Proyectos
 Actualmente tengo tres proyectos hechos como entregas para clases de la universidad
 ### Proyecto OOP (Programación Orientada a Objetos)
